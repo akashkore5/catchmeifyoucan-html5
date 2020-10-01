@@ -1,7 +1,7 @@
 # catchmeifyoucan-html5
 Catch Me If You Can! HTML5 version
 
-ABOUT THE PROJECT 
+ABOUT THE PROJECT
 This is very intresting simple game.
 YOU HAVE TO KILL ALL FISH WITH ARROWS AND GRAB THE MISE. 
 made with javascript and html.
